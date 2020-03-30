@@ -2,7 +2,7 @@
   "artists": [
     {
       "id": 1,
-      "name": "Barış Manço"
+      "name": "Barış Manço",
       "albums":[
       {"id":1,
        "albumName":"Ben Bilirim",
@@ -14,7 +14,7 @@
          {"id":"3",
            "songName":"Gamzedeyim"},
          {"id":"4",
-           "songName":"Gönül Dağı"}]}]
+           "songName":"Gönül Dağı"}]
      },
      {"id":2,
        "albumName":"Hal Hal",
@@ -32,7 +32,7 @@
     },
     {
       "id": 2,
-      "name": "Mabel Matiz"
+      "name": "Mabel Matiz",
       "albums":[
       {"id":3,
        "albumName":"Maya",
@@ -52,7 +52,7 @@
       }
       {
       "id": 3,
-      "name": "Duman"
+      "name": "Duman",
       "albums":[
       {"id":3,
        "albumName":"Belki Alışman Lazım",
@@ -76,7 +76,7 @@
       },
       {
       "id": 3,
-      "name": "Mor ve Ötesi"
+      "name": "Mor ve Ötesi",
       "albums":[
       {"id":3,
        "albumName":"Dünya Yalan Söylüyor",
@@ -100,7 +100,7 @@
       },
           {
       "id": 3,
-      "name": "Nirvana"
+      "name": "Nirvana",
       "albums":[
       {"id":3,
        "albumName":"Nevermind",
@@ -117,7 +117,7 @@
          "songName":"Drain You"},
          {"id":"36",
          "songName":"Bleem"}]}]   
-      }, 
+      } 
               
     ]}
   
