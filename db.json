@@ -6,6 +6,7 @@
         "albums":[
         {"id":1,
          "albumName":"Ben Bilirim",
+         "img":"https://i.pinimg.com/originals/20/f4/3a/20f43a69f99e2f1e922a8060273827dd.png"
          "songs":[
            {"id":"1",
         "songName":"Ben Bilirim"},
@@ -18,6 +19,7 @@
        },
        {"id":2,
          "albumName":"Hal Hal",
+         "img":"https://i.pinimg.com/originals/b5/18/0d/b5180d4cd196a5217c7337a49eb124ad.jpg",
          "songs":[
            {"id":"5",
              "songName":"Hal Hal"},
@@ -36,6 +38,7 @@
         "albums":[
         {"id":3,
          "albumName":"Maya",
+         "img":"https://i.pinimg.com/originals/20/f4/3a/20f43a69f99e2f1e922a8060273827dd.png",
          "songs":[
            {"id":"10",
         "songName":"A Canım"},
@@ -56,6 +59,7 @@
         "albums":[
         {"id":3,
          "albumName":"Belki Alışman Lazım",
+         "img":"https://i.pinimg.com/originals/e2/06/af/e206afcff4c2cf1277e20e2670993214.jpg",
          "songs":[
            {"id":"15",
            "songName":"Bu Akşam"},
@@ -80,6 +84,7 @@
         "albums":[
         {"id":3,
          "albumName":"Dünya Yalan Söylüyor",
+         "img":"https://i.pinimg.com/originals/02/cb/16/02cb16bf747a240192aa07d13947b1db.jpg",
          "songs":[
            {"id":"23",
            "songName":"Cambaz"},
@@ -104,6 +109,7 @@
         "albums":[
         {"id":3,
          "albumName":"Nevermind",
+         "img":"https://i.pinimg.com/originals/83/9b/0b/839b0b68854cecc48237c3eac09dcaaa.jpg",
          "songs":[
            {"id":"31",
            "songName":"Smeells Like Teen Spirit"},
