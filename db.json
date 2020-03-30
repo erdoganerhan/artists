@@ -1,11 +1,123 @@
 {
-  "albums": [
+  "artists": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+      "name": "Barış Manço"
+      "albums":[
+      {"id":1,
+       "albumName":"Ben Bilirim",
+       "songs":[
+         {"id":"1",
+      "songName":"Ben Bilirim"},
+         {"id":"2",
+           "songName":"Lambaya Püf De"},
+         {"id":"3",
+           "songName":"Gamzedeyim"},
+         {"id":"4",
+           "songName":"Gönül Dağı"},
+     },
+     {"id":2,
+       "albumName":"Hal Hal",
+       "songs":[
+         {"id":"5",
+           "songName":"Hal Hal"},
+         {"id":"6",
+           "songName":"Dönence"},
+         {"id":"7",
+           "songName":"Alla Beni Pulla beni"},
+         {"id":"8",
+           "songName":"Gül Pembe"},
+         {"id":"9",
+           "songName":"Kol Düğmeleri"},
+    },
+    {
+      "id": 2,
+      "name": "Mabel Matiz"
+      "albums":[
+      {"id":3,
+       "albumName":"Maya",
+       "songs":[
+         {"id":"10",
+      "songName":"A Canım"},
+         {"id":"11",
+           "songName":"Öyle Kolaysa"},
+         {"id":"12",
+           "songName":"Ya Bu İşler Ne"},
+         {"id":"13",
+           "songName":"Boyalı Da Saçların"},
+         {"id":"14",
+           "songName":"Çukur"},
+         {"id":"14",
+           "songName":"Sarmaşık"}       
+      },
+      {
+      "id": 3,
+      "name": "Duman"
+      "albums":[
+      {"id":3,
+       "albumName":"Belki Alışman Lazım",
+       "songs":[
+         {"id":"15",
+         "songName":"Bu Akşam"},
+         {"id":"16",
+         "songName":"Her Şeyi Yak"},
+         {"id":"17",
+         "songName":"Oje"},
+         {"id":"18",
+         "songName":"Kırmış Kalbini"},
+         {"id":"19",
+         "songName":"Masal"},
+         {"id":"20",
+         "songName":"Manası Yok"},
+         {"id":"21",
+         "songName":"Bal"},
+         {"id":"22",
+         "songName":"Ah"}      
+      },
+      {
+      "id": 3,
+      "name": "Mor ve Ötesi"
+      "albums":[
+      {"id":3,
+       "albumName":"Dünya Yalan Söylüyor",
+       "songs":[
+         {"id":"23",
+         "songName":"Cambaz"},
+         {"id":"24",
+         "songName":"Bir Derdim Var"},
+         {"id":"25",
+         "songName":"Re"},
+         {"id":"26",
+         "songName":"Sevda Çiçeği"},
+         {"id":"27",
+         "songName":"Serseri"},
+         {"id":"28",
+         "songName":"Aşk İçinde"},
+         {"id":"29",
+         "songName":"Az Çok"},
+         {"id":"30",
+         "songName":"Uyan"}      
+      },
+          {
+      "id": 3,
+      "name": "Nirvana"
+      "albums":[
+      {"id":3,
+       "albumName":"Nevermind",
+       "songs":[
+         {"id":"31",
+         "songName":"Smeells Like Teen Spirit"},
+         {"id":"32",
+         "songName":"Come As You Are"},
+         {"id":"33",
+         "songName":"Lithium"},
+         {"id":"34",
+         "songName":"In Bloom"},
+         {"id":"35",
+         "songName":"Drain You"},
+         {"id":"36",
+         "songName":"Bleem"},   
+      }, 
+              
+    ]}
+  
