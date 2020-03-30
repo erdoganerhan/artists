@@ -6,7 +6,7 @@
         "albums":[
         {"id":1,
          "albumName":"Ben Bilirim",
-         "img":"https://i.pinimg.com/originals/20/f4/3a/20f43a69f99e2f1e922a8060273827dd.png"
+         "img":"https://i.pinimg.com/originals/20/f4/3a/20f43a69f99e2f1e922a8060273827dd.png",
          "songs":[
            {"id":"1",
         "songName":"Ben Bilirim"},
