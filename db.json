@@ -19,7 +19,7 @@
        },
        {"id":2,
          "albumName":"Hal Hal",
-         "img":"https://i.pinimg.com/originals/6f/8a/54/6f8a549cdc57eba54b5f5bb1789fa24b.jpg",
+         "img":"https://i.pinimg.com/originals/20/f4/3a/20f43a69f99e2f1e922a8060273827dd.png",
          "songs":[
            {"id":5,
              "songName":"Hal Hal"},
@@ -38,7 +38,7 @@
         "albums":[
         {"id":3,
          "albumName":"Maya",
-         "img":"https://i.pinimg.com/originals/20/f4/3a/20f43a69f99e2f1e922a8060273827dd.png",
+         "img":"https://i.pinimg.com/originals/6f/8a/54/6f8a549cdc57eba54b5f5bb1789fa24b.jpg",
          "songs":[
            {"id":10,
         "songName":"A Canım"},
