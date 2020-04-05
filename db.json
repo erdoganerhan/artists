@@ -113,7 +113,7 @@
         {
         "id": 5,
         "name": "Nirvana",
-        "img":"https://dogeya.com/wp-content/uploads/2014/05/133.jpg",    
+        "artistImg":"https://dogeya.com/wp-content/uploads/2014/05/133.jpg",    
         "albums":[
         {"id":3,
          "albumName":"Nevermind",
