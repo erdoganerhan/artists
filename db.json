@@ -7,7 +7,7 @@
         "albums":[
         {"id":1,
          "albumName":"Ben Bilirim",
-         "img":"https://i.pinimg.com/originals/20/f4/3a/20f43a69f99e2f1e922a8060273827dd.png",
+         "img":"https://img.discogs.com/XFU9NyX9fezG86zbBJHsxQJQYc0=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14730656-1580484615-6661.jpeg.jpg",
          "songs":[
            {"id":1,
         "songName":"Ben Bilirim"},
@@ -23,7 +23,7 @@
        },
        {"id":2,
          "albumName":"Hal Hal",
-         "img":"https://i.pinimg.com/originals/20/f4/3a/20f43a69f99e2f1e922a8060273827dd.png",
+         "img":"https://static.nadirkitap.com/fotograf/81968/10/Efemera_20180416131705_81968_3.jpg",
          "songs":[
            {"id":5,
              "songName":"Hal Hal"},
@@ -43,7 +43,7 @@
         "albums":[
         {"id":3,
          "albumName":"Maya",
-         "img":"https://i.pinimg.com/originals/6f/8a/54/6f8a549cdc57eba54b5f5bb1789fa24b.jpg",
+         "img":"https://www.esenshop.com/Uploads/UrunResimleri/buyuk/mabel-matiz---maya--c55a.jpg",
          "songs":[
            {"id":10,
         "songName":"A Canım"},
