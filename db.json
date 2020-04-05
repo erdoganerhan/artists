@@ -3,6 +3,7 @@
       {
         "id": 1,
         "name": "Barış Manço",
+        "artistImg":"https://i.pinimg.com/originals/4b/0e/8a/4b0e8a23d01707df0a252489e9848018.jpg",
         "albums":[
         {"id":1,
          "albumName":"Ben Bilirim",
@@ -38,6 +39,7 @@
       {
         "id": 2,
         "name": "Mabel Matiz",
+        "artistImg":"https://i.milliyet.com.tr/MolatikDetayBig/2018/06/29/fft371_mf29859664.Jpeg",
         "albums":[
         {"id":3,
          "albumName":"Maya",
@@ -59,6 +61,7 @@
         {
         "id": 3,
         "name": "Duman",
+        "artistImg":"https://upload.wikimedia.org/wikipedia/commons/0/02/Duman_Grubu.jpg",
         "albums":[
         {"id":3,
          "albumName":"Belki Alışman Lazım",
@@ -84,6 +87,7 @@
         {
         "id": 4,
         "name": "Mor ve Ötesi",
+        "artistImg":"https://www.basedistanbul.com/wp-content/uploads/2017/05/MvO-0376cc-1024x705.jpg",
         "albums":[
         {"id":3,
          "albumName":"Dünya Yalan Söylüyor",
@@ -109,6 +113,7 @@
         {
         "id": 5,
         "name": "Nirvana",
+        "img":"https://dogeya.com/wp-content/uploads/2014/05/133.jpg",    
         "albums":[
         {"id":3,
          "albumName":"Nevermind",
